@@ -1,0 +1,6 @@
+//REST
+Rest es un servicio basado en la arquitectura Cliente servidor
+
+atravez de una peticion atomica el servidor realiza acciones
+
+se usa un lenguje universal -> JSON
