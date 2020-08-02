@@ -13,7 +13,7 @@ var connection *gorm.DB
 const engineSQL string = "mysql"
 
 const username string = "root"
-const password string = "Cocacola09"
+const password string = "pass"//ingresar password
 const database string = "REST"
 
 //"username:password@/database"
